@@ -1,3 +1,4 @@
-# Group-Policy
+# Group Policy
 
-Random Group Policy code for public
+Collection of simple group policy management scripts.
+Use with care
